@@ -1,0 +1,54 @@
+{
+  "node": {
+    "00fee53ee33c2d58eca93470cf1899dce0a135bc15": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CThis%20Pc%5C%5CDocuments%5C%5CProjects%5C%5Cleave-request-app%5C%5Clib%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%2200fee53ee33c2d58eca93470cf1899dce0a135bc15%22%2C%22exportedName%22%3A%22getLeaveRequests%22%7D%2C%7B%22id%22%3A%2240c113f188effa7849604d0ba985eca94870640bb6%22%2C%22exportedName%22%3A%22submitLeaveRequest%22%7D%2C%7B%22id%22%3A%227003d2b2e0114bb3d69b87c939e3233562a180ca09%22%2C%22exportedName%22%3A%22updateLeaveRequestStatus%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/request/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CThis%20Pc%5C%5CDocuments%5C%5CProjects%5C%5Cleave-request-app%5C%5Clib%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%2200fee53ee33c2d58eca93470cf1899dce0a135bc15%22%2C%22exportedName%22%3A%22getLeaveRequests%22%7D%2C%7B%22id%22%3A%2240c113f188effa7849604d0ba985eca94870640bb6%22%2C%22exportedName%22%3A%22submitLeaveRequest%22%7D%2C%7B%22id%22%3A%227003d2b2e0114bb3d69b87c939e3233562a180ca09%22%2C%22exportedName%22%3A%22updateLeaveRequestStatus%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser",
+        "app/request/page": "action-browser"
+      }
+    },
+    "40c113f188effa7849604d0ba985eca94870640bb6": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CThis%20Pc%5C%5CDocuments%5C%5CProjects%5C%5Cleave-request-app%5C%5Clib%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%2200fee53ee33c2d58eca93470cf1899dce0a135bc15%22%2C%22exportedName%22%3A%22getLeaveRequests%22%7D%2C%7B%22id%22%3A%2240c113f188effa7849604d0ba985eca94870640bb6%22%2C%22exportedName%22%3A%22submitLeaveRequest%22%7D%2C%7B%22id%22%3A%227003d2b2e0114bb3d69b87c939e3233562a180ca09%22%2C%22exportedName%22%3A%22updateLeaveRequestStatus%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/request/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CThis%20Pc%5C%5CDocuments%5C%5CProjects%5C%5Cleave-request-app%5C%5Clib%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%2200fee53ee33c2d58eca93470cf1899dce0a135bc15%22%2C%22exportedName%22%3A%22getLeaveRequests%22%7D%2C%7B%22id%22%3A%2240c113f188effa7849604d0ba985eca94870640bb6%22%2C%22exportedName%22%3A%22submitLeaveRequest%22%7D%2C%7B%22id%22%3A%227003d2b2e0114bb3d69b87c939e3233562a180ca09%22%2C%22exportedName%22%3A%22updateLeaveRequestStatus%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser",
+        "app/request/page": "action-browser"
+      }
+    },
+    "7003d2b2e0114bb3d69b87c939e3233562a180ca09": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CThis%20Pc%5C%5CDocuments%5C%5CProjects%5C%5Cleave-request-app%5C%5Clib%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%2200fee53ee33c2d58eca93470cf1899dce0a135bc15%22%2C%22exportedName%22%3A%22getLeaveRequests%22%7D%2C%7B%22id%22%3A%2240c113f188effa7849604d0ba985eca94870640bb6%22%2C%22exportedName%22%3A%22submitLeaveRequest%22%7D%2C%7B%22id%22%3A%227003d2b2e0114bb3d69b87c939e3233562a180ca09%22%2C%22exportedName%22%3A%22updateLeaveRequestStatus%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/request/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CThis%20Pc%5C%5CDocuments%5C%5CProjects%5C%5Cleave-request-app%5C%5Clib%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%2200fee53ee33c2d58eca93470cf1899dce0a135bc15%22%2C%22exportedName%22%3A%22getLeaveRequests%22%7D%2C%7B%22id%22%3A%2240c113f188effa7849604d0ba985eca94870640bb6%22%2C%22exportedName%22%3A%22submitLeaveRequest%22%7D%2C%7B%22id%22%3A%227003d2b2e0114bb3d69b87c939e3233562a180ca09%22%2C%22exportedName%22%3A%22updateLeaveRequestStatus%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser",
+        "app/request/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "z7bbtsyddtR4rd/6joCGH++68wBbzXFEmkd/gQ8AexI="
+}
